@@ -1,0 +1,235 @@
+Ağrımak:Ache
+Ameliyat:Surgery
+Araç:Vehicle
+Araknofobi:Arachnophobia
+Ayırmak:Spare
+Bağlamak:Tie
+Baş Parmak:Thumb
+Beklenmedik:Unexpected
+Belirlemek:Determine
+Birey:Individual
+Bozuk:Rotten
+Büyüleyici:Fascinating
+Çatı:Roof
+Çocuk Istismarı:Child Abuse
+Çürük:Rotten
+Dağılmak:Disperse
+Danışman:Counsellor
+Değerlendirmek:Assess
+Değerlendirme:Evaluation
+Değerli:Precious
+Delik:Hole
+Devlet:State
+Durum:Condition
+Düşman:Enemy
+Düşünce:Thought
+Düzgün:Proper
+Fedakar:Devoted
+Galibiyet:Victory
+Garip:Strange
+Gerçek:Truth
+Gerektirmek:Require
+Gergin:Tense
+Getirmek:Bring
+Giriş:Entrance
+Göğüs Kafesi:Rib Cage
+Gözlem:Observation
+Hap:Pill
+Hasta:Patient
+Hırsız:Burglar
+Hırsız:thief
+İfşa:Reveal
+İkna:Convince
+İntihar:Suicide
+Isıtıcı:Heater
+Israrcı Bir Şekilde:Insistent
+Issız:Desolate
+İşgal Etmek:Occupy
+İdam:Execution
+İnatçı:Stubborn
+İntihar:Suicide
+Kader:Destiny
+Kafile:Cortege
+Karar:Decision
+Karın:Stomach
+Kaygan:Slippery
+Kayıt:Enrollment
+Kıtlık:Famine
+Kolonya:Cologne
+Korkmak:Fear
+Meydana Gelmek:Occur
+Mide:Stomach
+Mücadele:Struggle
+Mücadele:Challenge
+Mülteci:Refugee
+Mürekkep:Ink
+Müsait:Available
+Müsteşar:Undersecretary
+Neredeyse:Nearly
+Ödül:Prize
+Ödül:Prize
+Önlem:Precaution
+Özel Dedektif:Private Detective
+Patlama:Explosion
+Peçete:Tissue
+Sabır:Patience
+Sağlamak:Provide
+Savcı:Prosecutor
+Saygı:Respect
+Sergi:Display
+Sessizlik:Silence
+Sindirim Sistemi:Digestive System
+Sükunet:Silence
+Süpürge:Broom
+Şart:Condition
+Şaşırtıcı:Astonishing
+Talep Etmek:Demand
+Tasfiye Etmek:Disband
+Taşımak-Hareket Etmek:Move
+Tatışmak:Discuss
+Terk Etmek:Leave
+Teslim Olmak:Surrender
+Timsah:Crocodile
+Tutuklama:Arrest
+E yalvarmak:Beg
+Accidental:Tesadüf
+Accidentally:Tesadüfen
+Act:Oynamak
+Addiction:bağımlılık
+Administrative:Yönetimsel
+Agricultural:Tarımsal
+Ambition:Azim
+Anchorman:Haber Sunucusu
+Archeological Research:Arkeolojik Araştırma
+As A Matter Of:Prensip Olarak
+Attempt:Girişim
+Attend:Katılmak
+Audience:Seyirci
+Awfully:Berbat bir şekilde
+Backyard:Avlu
+Beggar:Dilenci
+Belonging:Eşya
+Burst:Patlak
+Candidate:Aday
+Certain:Kesin
+certainly:Kesinlikle
+chase:kovalamak
+Chest:Sandık
+Confidential:Gizli
+Confirmation:Onay
+Conscious:Bilinçli
+Consent:Razı Olmak
+Consider:Düşünmek
+Continent:Kıta
+Cost Efficient:Uygun Maliyetli
+Crisis:Kriz
+Criteria:Kriter
+Curb:Engellemek
+Cure:Tedavi
+Debate:Tartışma
+Deceased:Rahmetli
+Demand:İstemek
+Denigrate:Kötülemek
+Detention Camp:Toplama Kampı
+Disaster:Felaket
+Dismissal:Kovulma
+Disorder:Rahatsızlık
+District:Bölge
+Divorcement:Boşanma
+Drought:Kuraklık
+Each Other:Birbirleri
+Encourage:Cesaretlendirmek
+Frantic:Telaşlı
+Government:Hükümet
+Grow:Büyümek
+Harmful:Zararlı
+Hereditary:Kalıtsal
+Hole:Çukur
+Hollow:Oyuk
+Hollow:Çukur
+Holy:Kutsal
+Hose:Hortum
+Hostage:Rehine
+Imitation:Taklit
+Important:Önemli
+Improve:Gelişmek
+Incubator:Küvöz
+Intensive:Yoğun
+Interpret:Yorumlamak
+Issue:Konu
+Imminent:Yaklaşan
+Incubator:Küvöz
+Interpret:Yorumlamak
+Intonation:Ses Tonu
+Lawsuit:Dava
+Manner:Tavır
+Minority:Azınlık
+Municipality:Belediye
+Nightmare:Kabus
+Notice:Farketmek
+Obstacle:Engel
+Occasional:Ara Sıra Olan
+Progress:Gelişme
+Provide:Sağlamak
+Puncture:Patlak
+Punish:Cezalandırmak
+Referee:Hakem
+Implementation:Uygulama
+Rehearsal:Prova
+Repairman:Tamirci
+Stage:Sahne
+Satirical:Alaycı
+Scare:Korkutmak
+Stubborn:İnatçı
+Seat:Yer
+Servant:Hizmetçi
+Session:Oturum
+Severe:Şiddetli
+Shepherd:Çoban
+Silent:Sakin
+Surgery:Ameliyat
+The Whole:Bütün
+Thoroughly:Derinlemesine
+Tough:Zorlu
+Knowledgeable:Bilinçli
+Unwealthy:Varlıklı Olmayan
+Urgent:Acil
+Vaccine:Aşı
+Vital:Önemli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
