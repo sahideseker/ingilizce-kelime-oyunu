@@ -1,3 +1,3 @@
-# ingilizce-kelime-oyunu
-## Açıklama
-**İngilizce kelimelerden bir sözlük oluşturuldu. Oyun program çalıştırıldığında rastgele gelen kelimelerin anlamlarını bulmaktır. Kelimelerin anlamlarının yanlış ya da doğru cevaplandığı ekrana yazdırılıyor. Oyun sonlandığında ise doğru ve yanlış bilinen kelimeler ekrana yazdırılıyor.**
+# Vocabulary Quiz Game
+## Project Description
+**A game where players guess the meanings of randomly presented English words. The game displays correct and incorrect answers, and at the end, it shows the words that were answered correctly and incorrectly.**
